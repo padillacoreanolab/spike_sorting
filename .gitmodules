@@ -1,3 +1,6 @@
 [submodule "submodules/spikeinterface"]
 	path = submodules/spikeinterface
 	url = git@github.com:ryoiwata/spikeinterface.git
+[submodule "submodules/mountainsort_examples"]
+	path = submodules/mountainsort_examples
+	url = git@github.com:flatironinstitute/mountainsort_examples.git
