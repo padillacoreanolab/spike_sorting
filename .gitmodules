@@ -1,0 +1,3 @@
+[submodule "submodules/spikeinterface"]
+	path = submodules/spikeinterface
+	url = git@github.com:ryoiwata/spikeinterface.git
